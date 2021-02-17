@@ -13,8 +13,8 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-#Node modules
-node_modules/
+# Dependency directories
+node_modules
 
 # Mono auto generated files
 mono_crash.*
