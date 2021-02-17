@@ -14,7 +14,7 @@
 *.userprefs
 
 # Dependency directories
-**node_modules
+**/node_modules
 
 # Mono auto generated files
 mono_crash.*
