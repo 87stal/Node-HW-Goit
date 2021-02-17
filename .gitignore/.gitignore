@@ -13,8 +13,7 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-# Dependency directories
-node_modulesx/
+
 
 # Mono auto generated files
 mono_crash.*
@@ -352,3 +351,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+# Dependency directories
+node_modules/
